@@ -1,0 +1,9 @@
+23 blocks until first obstacle
+first obstacles on 24. block on the right and left, they are half a block wide and one block long.
+7 more blocks until on the 8. following block there is a one block cube in the middle.
+about 24 more blocks, then on the 25. one are two objects the same as the earlier two on the sides
+3 more blocks
+
+total length (in blocks; x-y-z with z being height)
+
+60-3-idk lol
